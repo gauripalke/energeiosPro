@@ -90,8 +90,7 @@
 					<div class="energe-footer-text-inner">
 						<div class="row">
 							<div class="col-md-12">
-								<div class="energe-footer-copyright-text-area">Copyright © 2024 <a href="#">Evgrid</a>, All Rights Reserved.</div>
-							</div>
+								<div class="energe-footer-copyright-text-area">Copyright © 2025 <a href="#">Energeios
 						</div>
 					</div>
 				</div>

@@ -12,7 +12,7 @@
 					<div class="energe-breadcrumb">
 						<div class="energe-breadcrumb-inner">
 							<span>
-								<a title="" href="#" class="home"><span>Evgrid</span></a>
+								<a title="" href="#" class="home"><span>Energeios</span></a>
 							</span>
 							<span class="sep">
 								<i class="energe-base-icon-angle-right"></i>
@@ -39,7 +39,7 @@
 									<div class="energe-ihbox-contents">
 										<div class="energe-heading-desc">Have questions? </div>				
 										<h2 class="energe-element-title">
-											<a href="https://evgrid-demo.energeios.com/cdn-cgi/l/email-protection#9df5f8f1edddedfff0f4f3fbf2e9f8fef5b3fef2f0">
+											<a href="#">
 												<span class="energe-button-text"><span class="__cf_email__" data-cfemail="2f474a435f6f5f4d42464149405b4a4c47014c4042">[email&#160;protected]</span></span>
 												<span class="energe-button-icon-wrapper">
 													<span class="energe-button-icon">
@@ -52,7 +52,7 @@
 									<div class="energe-ihbox-icon">
 										<div class="energe-ihbox-icon-wrapper energe-ihbox-icon-type-icon">
 											<div class="energe-icon-wrapper energe-icon-type-icon">
-												<i class="energe-evgrid-icon energe-evgrid-icon-ev"></i>
+												<i class="energe-energeios-icon energe-energeios-icon-ev"></i>
 											</div>
 										</div>
 									</div>
@@ -65,7 +65,7 @@
 									<div class="energe-ihbox-contents">
 										<div class="energe-heading-desc">Join our team?</div>				
 										<h2 class="energe-element-title">
-											<a href="https://evgrid-demo.energeios.com/cdn-cgi/l/email-protection#325a575e427242505f5b5c545d4657515a1c515d5f">
+											<a href="#">
 												<span class="energe-button-text"><span class="__cf_email__" data-cfemail="d8bbb9aabdbdaaab98a8bab5b1b6beb7acbdbbb0f6bbb7b5">[email&#160;protected]</span></span>
 												<span class="energe-button-icon-wrapper">
 													<span class="energe-button-icon">
@@ -78,7 +78,7 @@
 									<div class="energe-ihbox-icon">
 										<div class="energe-ihbox-icon-wrapper energe-ihbox-icon-type-icon">
 											<div class="energe-icon-wrapper energe-icon-type-icon">
-												<i class="energe-evgrid-icon energe-evgrid-icon-bolt"></i>
+												<i class="energe-energeios-icon energe-energeios-icon-bolt"></i>
 											</div>
 										</div>
 									</div>
@@ -91,7 +91,7 @@
 									<div class="energe-ihbox-contents">
 										<div class="energe-heading-desc">Business inquiries?</div>				
 										<h2 class="energe-element-title">
-											<a href="https://evgrid-demo.energeios.com/cdn-cgi/l/email-protection#29414c455969594b4440474f465d4c4a41074a4644">
+											<a href="#">
 												<span class="energe-button-text"><span class="__cf_email__" data-cfemail="6b030e071b2b1b090602050d041f0e080345080406">[email&#160;protected]</span></span>
 												<span class="energe-button-icon-wrapper">
 													<span class="energe-button-icon">
@@ -128,7 +128,7 @@
 											<ul>
 												<li>
 													<span>Email :</span>
-													<a href="https://evgrid-demo.energeios.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="a5c4c1c8cccbe5d5c7c8cccbc3cad1c0c6cd8bc6cac8">[email&#160;protected]</a>
+													<a href="#" class="__cf_email__" data-cfemail="a5c4c1c8cccbe5d5c7c8cccbc3cad1c0c6cd8bc6cac8">[email&#160;protected]</a>
 												</li>
 												<li>
 													<span>Phone :</span>
@@ -165,7 +165,7 @@
 											<ul>
 												<li>
 													<span>Email :</span>
-													<a href="https://evgrid-demo.energeios.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="355451585c5b754557585c5b535a4150565d1b565a58">[email&#160;protected]</a>
+													<a href="#" class="__cf_email__" data-cfemail="355451585c5b754557585c5b535a4150565d1b565a58">[email&#160;protected]</a>
 												</li>
 												<li>
 													<span>Phone :</span>
@@ -202,7 +202,7 @@
 											<ul>
 												<li>
 													<span>Email :</span>
-													<a href="https://evgrid-demo.energeios.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="2243464f4b4c6252404f4b4c444d5647414a0c414d4f">[email&#160;protected]</a>
+													<a href="#" class="__cf_email__" data-cfemail="2243464f4b4c6252404f4b4c444d5647414a0c414d4f">[email&#160;protected]</a>
 												</li>
 												<li>
 													<span>Phone :</span>
@@ -250,7 +250,7 @@
 									Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem investigationes demonstraverunt lectores legere me lius.
 								</div>
 							</div>
-							<form class="contact-form" method="post" id="contact-form" action="https://evgrid-demo.energeios.com/html-demo/send-dummy.php" novalidate="novalidate">
+							<form class="contact-form" method="post" id="contact-form" action="#" novalidate="novalidate">
 								<div class="row">
 									<div class="col-sm-12">
 										<input type="text" class="form-control" placeholder="Your Name *" name="your-name" required="">

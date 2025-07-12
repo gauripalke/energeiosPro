@@ -3977,13 +3977,13 @@
 }
 .energe-elementor-bg-color-gradient .energe-marquee-effect-style-1 .energe-tag-wrapper::before,
 .energe-elementor-bg-color-globalcolor .energe-marquee-effect-style-1 .energe-tag-wrapper::before {
-	color: rgba(var(--energe-evgrid-blackish-color-rgb) ,.3);
+	color: rgba(var(--energe-energeios-blackish-color-rgb) ,.3);
 }
 .energe-elementor-bg-color-gradient .energe-marquee-effect-style-1 .energe-element-title,
 .energe-elementor-bg-color-globalcolor .energe-marquee-effect-style-1 .energe-element-title,
 .energe-elementor-bg-color-secondary .energe-marquee-effect-style-1 .energe-element-title,
 .energe-elementor-bg-color-blackish .energe-marquee-effect-style-1 .energe-element-title {
-	color: rgba(var(--energe-evgrid-white-color-rgb) ,.2);
+	color: rgba(var(--energe-energeios-white-color-rgb) ,.2);
 }
 
 /* --------------------------------------

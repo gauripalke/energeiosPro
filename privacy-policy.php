@@ -13,7 +13,7 @@
 						<div class="energe-breadcrumb">
 							<div class="energe-breadcrumb-inner">
 								<span>
-									<a title="" href="#" class="home"><span>Evgrid</span></a>
+									<a title="" href="#" class="home"><span>Energeios</span></a>
 								</span>
 								<span class="sep">
 									<i class="energe-base-icon-angle-right"></i>

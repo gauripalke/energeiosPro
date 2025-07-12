@@ -50,8 +50,8 @@
 								<div class="site-branding">
 									<h1 class="site-title">
 										<a href="index.html">
-											<img class="logo-img" src="images/logo-white.svg" alt="EVgrid">
-											<img class="sticky-logo-img" src="images/logo.svg" alt="EVgrid">
+											<img class="logo-img" src="images/logo-w.webp" alt="Energeios">
+											<img class="sticky-logo-img" src="images/logo.svg" alt="Energeios">
 										</a>
 									</h1>
 								</div>

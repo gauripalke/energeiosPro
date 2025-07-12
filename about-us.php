@@ -13,7 +13,7 @@
 						<div class="energe-breadcrumb">
 							<div class="energe-breadcrumb-inner">
 								<span>
-									<a title="" href="#" class="home"><span>Evgrid</span></a>
+									<a title="" href="#" class="home"><span>Energeios</span></a>
 								</span>
 								<span class="sep">
 									<i class="energe-base-icon-angle-right"></i>
@@ -75,7 +75,7 @@
 															<div class="energe-tab-inner-image">
 																<div class="energe-tab-image-wrap">
 																	<div class="energe-tab-icon">
-																		<i class="energe-evgrid-icon energe-evgrid-icon-battery"></i>
+																		<i class="energe-energeios-icon energe-energeios-icon-battery"></i>
 																	</div>
 																	<img src="images/homepage-1/tab-img-02.jpg" class="img-fluid" alt="">
 																</div>
@@ -102,7 +102,7 @@
 															<div class="energe-tab-inner-image">
 																<div class="energe-tab-image-wrap">
 																	<div class="energe-tab-icon">
-																		<i class="energe-evgrid-icon energe-evgrid-icon-electric-station"></i>
+																		<i class="energe-energeios-icon energe-energeios-icon-electric-station"></i>
 																	</div>
 																	<img src="images/homepage-1/tab-img-03.jpg" class="img-fluid" alt="">
 																</div>
@@ -129,7 +129,7 @@
 															<div class="energe-tab-inner-image">
 																<div class="energe-tab-image-wrap">
 																	<div class="energe-tab-icon">
-																		<i class="energe-evgrid-icon energe-evgrid-icon-renewable-energy"></i>
+																		<i class="energe-energeios-icon energe-energeios-icon-renewable-energy"></i>
 																	</div>
 																	<img src="images/homepage-1/tab-img-04.jpg" class="img-fluid" alt="">
 																</div>
@@ -287,7 +287,7 @@
 											<div class="energe-ihbox-icon">
 												<div class="energe-ihbox-icon-wrapper energe-ihbox-icon-type-icon">
 													<div class="energe-icon-wrapper energe-icon-type-icon">
-														<i class="energe-evgrid-icon energe-evgrid-icon-phone"></i>
+														<i class="energe-energeios-icon energe-energeios-icon-phone"></i>
 													</div>
 												</div>
 											</div>	
@@ -831,7 +831,7 @@
 															<div class="energe-ihbox-icon">
 																<div class="energe-ihbox-icon-wrapper energe-ihbox-icon-type-icon">
 																	<div class="energe-icon-wrapper energe-icon-type-icon">
-																		<i class="energe-evgrid-icon energe-evgrid-icon-apple"></i>
+																		<i class="energe-energeios-icon energe-energeios-icon-apple"></i>
 																	</div>
 																</div>
 															</div>	
@@ -859,7 +859,7 @@
 															<div class="energe-ihbox-icon">
 																<div class="energe-ihbox-icon-wrapper energe-ihbox-icon-type-icon">
 																	<div class="energe-icon-wrapper energe-icon-type-icon">
-																		<i class="energe-evgrid-icon energe-evgrid-icon-google-play"></i>
+																		<i class="energe-energeios-icon energe-energeios-icon-google-play"></i>
 																	</div>
 																</div>
 															</div>	

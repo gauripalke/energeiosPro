@@ -226,7 +226,7 @@ As electric mobility transforms the world, we empower individuals to own a share
 															<div class="energe-tab-inner-image">
 																<div class="energe-tab-image-wrap">
 																	<div class="energe-tab-icon">
-																		<i class="energe-evgrid-icon energe-evgrid-icon-battery"></i>
+																		<i class="energe-energeios-icon energe-energeios-icon-battery"></i>
 																	</div>
 																	<img src="images/homepage-1/tab-img-02.jpg" class="img-fluid" alt="">
 																</div>
@@ -257,7 +257,7 @@ As electric mobility transforms the world, we empower individuals to own a share
 															<div class="energe-tab-inner-image">
 																<div class="energe-tab-image-wrap">
 																	<div class="energe-tab-icon">
-																		<i class="energe-evgrid-icon energe-evgrid-icon-electric-station"></i>
+																		<i class="energe-energeios-icon energe-energeios-icon-electric-station"></i>
 																	</div>
 																	<img src="images/homepage-1/tab-img-03.jpg" class="img-fluid" alt="">
 																</div>
@@ -284,7 +284,7 @@ As electric mobility transforms the world, we empower individuals to own a share
 															<div class="energe-tab-inner-image">
 																<div class="energe-tab-image-wrap">
 																	<div class="energe-tab-icon">
-																		<i class="energe-evgrid-icon energe-evgrid-icon-renewable-energy"></i>
+																		<i class="energe-energeios-icon energe-energeios-icon-renewable-energy"></i>
 																	</div>
 																	<img src="images/homepage-1/tab-img-04.jpg" class="img-fluid" alt="">
 																</div>
@@ -365,7 +365,7 @@ As electric mobility transforms the world, we empower individuals to own a share
 							</div>
 							<div class="col-md-3 about-one-col-3">
 								<div class="about-video">
-									<iframe class="elementor-video" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" title="EVgrid - Animation Video" width="640" height="360" src="https://www.youtube.com/embed/MaJYmMTgFCM?controls=0&amp;rel=0&amp;playsinline=0&amp;modestbranding=0&amp;autoplay=1&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fevgrid-demo.energeios.com&amp;widgetid=1" id="widget2"></iframe>
+									<iframe class="elementor-video" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" title="Energeios" width="640" height="360" src="#"></iframe>
 								</div>
 							</div>
 						</div>
@@ -378,7 +378,7 @@ As electric mobility transforms the world, we empower individuals to own a share
 											<div class="energe-ihbox-icon">
 												<div class="energe-ihbox-icon-wrapper energe-ihbox-icon-type-icon">
 													<div class="energe-icon-wrapper energe-icon-type-icon">
-														<i class="energe-evgrid-icon energe-evgrid-icon-renewable-energy"></i>
+														<i class="energe-energeios-icon energe-energeios-icon-renewable-energy"></i>
 													</div>
 												</div>
 											</div>	
