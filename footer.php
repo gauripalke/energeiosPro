@@ -59,12 +59,13 @@
 								<h2 class="widget-title">Pages</h2>
 								<div class="textwidget">
 									<ul>
-										<li><a href="#">Home 1</a></li>
+										<li><a href="index.php">Home </a></li>
 										<li> <a href="about-us.php">About Us</a>  </li> 
-										<li> <a href="#">Our Plan</a>  </li>
+										<li> <a href="plan.php">Our Plan</a>  </li>
 										<li> <a href="#">Legal</a>  </li>
 										<li> <a href="#"> FAQs</a>  </li>
 										<li><a href="contact-us.php">Contact Us</a></li>
+										<li><a href="privacy-policy.php"> Privacy Policy </a></li>
 									</ul>
 								</div>
 							</aside>
