@@ -43,7 +43,7 @@
 		<!-- Header Main Area -->
 		<header class="site-header header-style-1">
 			<div class="energe-header-overlay">
-				<div class="site-header-menu">
+				<div class="site-header-menu"> 
 					<div class="container-fluid">
 						<div class="energe-header-content d-flex justify-content-between align-items-center">
 							<div class="energe-logo-menuarea d-flex justify-content-between align-items-center">
@@ -51,7 +51,7 @@
 									<h1 class="site-title">
 										<a href="index.html">
 											<img class="logo-img" src="images/logo-w.webp" alt="Energeios">
-											<img class="sticky-logo-img" src="images/logo.svg" alt="Energeios">
+											<img class="sticky-logo-img" src="images/logo-w.webp" alt="Energeios">
 										</a>
 									</h1>
 								</div>
